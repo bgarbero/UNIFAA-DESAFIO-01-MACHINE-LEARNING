@@ -22,6 +22,9 @@ O **kNN** classifica os dados com base nos vizinhos mais próximos.
 ### Naive Bayes
 O algoritmo **Naive Bayes** faz suposições independentes entre as características, sendo particularmente eficaz em conjuntos de dados de alta dimensionalidade.
 
+### Suporte a Vetores de Máquinas (SVM)
+O **SVM** é utilizado para encontrar o hiperplano ótimo que separa as classes de forma mais eficiente, sendo útil em problemas de classificação como este.
+
 ### Comparação de Resultados
 Ambos os algoritmos foram comparados com base em:
 - Acurácia
